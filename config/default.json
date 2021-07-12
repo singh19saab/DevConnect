@@ -1,0 +1,6 @@
+{
+    "mongooURI" : "mongodb+srv://singh10saab:singh10saab@abhi-projects.tbkij.mongodb.net/devConnector?retryWrites=true&w=majority",
+    "jwtSecret" : "mySecretToken",
+    "githubClientId" : "7bbf885ef8285ef0d835",
+    "githubSecret" : "60cd5538b46a207bf5cf4d39463d5dd8554f6e6c"
+}
